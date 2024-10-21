@@ -1,0 +1,5 @@
+---
+title: "Exploratory"
+---
+
+This is an exploratory document. 
